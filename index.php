@@ -15,7 +15,8 @@ and open the template in the editor.
        $n=5;
        $x=10.56;
        echo "<p> x= $x <br> n= $n</p>";
-      print '<a href="galeria.php"> Galeria zdjęć </a>';
+      print '<a href="galeria.php"> Galeria zdjęć </a> <br>';
+      print '<a href="typy.php"> Typy PHP </a>';
         ?>
         
     </body>
